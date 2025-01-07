@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zaoshanghao.asia/life/games/index.html</loc>
+    
+    <lastmod>2025-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zaoshanghao.asia/posts/8f123bea.html</loc>
     
     <lastmod>2025-01-07</lastmod>
@@ -102,15 +111,6 @@
   
   <url>
     <loc>https://zaoshanghao.asia/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zaoshanghao.asia/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
